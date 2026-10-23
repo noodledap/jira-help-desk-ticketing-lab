@@ -1,4 +1,4 @@
-# jira-help-desk-ticketing-lab
+# Jira Password Reset Ticketing 
 
 
 ## Summary
@@ -59,7 +59,7 @@ Simulate using the Jira IT Support dashboard and help resolve a password-reset. 
 <img width="443" height="478" alt="Resolution-comment" src="https://github.com/user-attachments/assets/6d7727ae-2471-4cd9-ae25-0b9af98b7dec" />
 
 
-9. Change status to ```+ Resolved ```
+9. Change status to ```Resolved ```
 
 <img width="1635" height="84" alt="Change-status to resolve" src="https://github.com/user-attachments/assets/76d897dc-f775-4f11-9189-e846db274af1" />
 
@@ -73,3 +73,17 @@ Simulate using the Jira IT Support dashboard and help resolve a password-reset. 
 - Technician documentation
 - Troubleshooting notes
 - Resolution documentation
+
+## Security
+
+- Only authorized it support agents should handle password reset requests
+- Verify the user's identity before resetting the password
+- Avoid putting passwords or sensitive information on ticket comments
+
+## What I Learned
+
+- How to create a Jira service request.
+- How to assign a ticket to a technician.
+- How to update ticket status.
+- How to document troubleshooting.
+- How to resolve a help desk ticket.
